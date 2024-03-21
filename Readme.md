@@ -10,5 +10,5 @@ It consists of multiple clients and a server, where server holds the public keys
 ## Authors
 
 - [Mehmet Arda Muftuoglu](https://github.com/MAMuftuoglu)
-- [Berke Ceylan](https://github.com/berkeceylan)
+- [Berke Ceylan](https://github.com/berkecyln)
 
